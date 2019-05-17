@@ -1,0 +1,14 @@
+C:\Postuniversitara\DotNet\Laboratoare\Lab2\Laborator2\Laborator2\bin\Debug\netcoreapp2.2\Laborator2.deps.json
+C:\Postuniversitara\DotNet\Laboratoare\Lab2\Laborator2\Laborator2\bin\Debug\netcoreapp2.2\Laborator2.runtimeconfig.json
+C:\Postuniversitara\DotNet\Laboratoare\Lab2\Laborator2\Laborator2\bin\Debug\netcoreapp2.2\Laborator2.runtimeconfig.dev.json
+C:\Postuniversitara\DotNet\Laboratoare\Lab2\Laborator2\Laborator2\bin\Debug\netcoreapp2.2\Laborator2.dll
+C:\Postuniversitara\DotNet\Laboratoare\Lab2\Laborator2\Laborator2\obj\Debug\netcoreapp2.2\Laborator2.csprojAssemblyReference.cache
+C:\Postuniversitara\DotNet\Laboratoare\Lab2\Laborator2\Laborator2\obj\Debug\netcoreapp2.2\Laborator2.csproj.CoreCompileInputs.cache
+C:\Postuniversitara\DotNet\Laboratoare\Lab2\Laborator2\Laborator2\obj\Debug\netcoreapp2.2\Laborator2.RazorAssemblyInfo.cache
+C:\Postuniversitara\DotNet\Laboratoare\Lab2\Laborator2\Laborator2\obj\Debug\netcoreapp2.2\Laborator2.RazorAssemblyInfo.cs
+C:\Postuniversitara\DotNet\Laboratoare\Lab2\Laborator2\Laborator2\obj\Debug\netcoreapp2.2\Laborator2.AssemblyInfoInputs.cache
+C:\Postuniversitara\DotNet\Laboratoare\Lab2\Laborator2\Laborator2\obj\Debug\netcoreapp2.2\Laborator2.AssemblyInfo.cs
+C:\Postuniversitara\DotNet\Laboratoare\Lab2\Laborator2\Laborator2\obj\Debug\netcoreapp2.2\Laborator2.RazorTargetAssemblyInfo.cache
+C:\Postuniversitara\DotNet\Laboratoare\Lab2\Laborator2\Laborator2\bin\Debug\netcoreapp2.2\Laborator2.pdb
+C:\Postuniversitara\DotNet\Laboratoare\Lab2\Laborator2\Laborator2\obj\Debug\netcoreapp2.2\Laborator2.dll
+C:\Postuniversitara\DotNet\Laboratoare\Lab2\Laborator2\Laborator2\obj\Debug\netcoreapp2.2\Laborator2.pdb
